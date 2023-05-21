@@ -5,9 +5,9 @@ CodeClause_Web-Development
 #Multi Program Editor
 Online Code Editor, designed as a part of internship under Golden Project ,is a dynamic website which can be used to execute various programs.
 
+
 📓 Tools used
 Front-End
-
 HTML
 CSS
 JS
@@ -22,9 +22,11 @@ JS
 <a href="https://github.com/saivardhanr">Sai vardhan</a>
 
 
+
 📌 Contributions
 Any contributions you make are greatly appreciated
 Would be glad to hear about new features to add in the website
+
 
 
 🛡 License
